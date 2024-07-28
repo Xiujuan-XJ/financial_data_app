@@ -1,0 +1,1827 @@
+Date,Category,Amount
+1/1/2019,Transportation,84.04
+2/1/2019,Entertainment,97.82
+3/1/2019,Entertainment,63.7
+4/1/2019,Dining Out,90.04
+5/1/2019,Transportation,124.11
+6/1/2019,Transportation,154.06
+7/1/2019,Utilities,59.84
+8/1/2019,Dining Out,93.57
+9/1/2019,Entertainment,61.31
+10/1/2019,Entertainment,117.81
+11/1/2019,Transportation,64.26
+12/1/2019,Dining Out,111.36
+13/1/2019,Dining Out,175.6
+14/1/2019,Dining Out,61.19
+15/1/2019,Dining Out,107.09
+16/1/2019,Utilities,100.12
+17/1/2019,Health,37.53
+18/1/2019,Utilities,43.84
+19/1/2019,Utilities,99.57
+20/1/2019,Groceries,67.82
+21/1/2019,Utilities,31.93
+22/1/2019,Dining Out,93.32
+23/1/2019,Health,45.24
+24/1/2019,Entertainment,43.39
+25/1/2019,Entertainment,165.61
+26/1/2019,Entertainment,23.34
+27/1/2019,Transportation,36.17
+28/1/2019,Transportation,25.2
+29/1/2019,Groceries,63.34
+30/1/2019,Entertainment,50.42
+31/1/2019,Entertainment,65.12
+1/2/2019,Entertainment,108.37
+2/2/2019,Transportation,85.65
+3/2/2019,Health,126.35
+4/2/2019,Dining Out,59.86
+5/2/2019,Transportation,172.17
+6/2/2019,Utilities,194.61
+7/2/2019,Health,58.16
+8/2/2019,Entertainment,106.81
+9/2/2019,Transportation,130.72
+10/2/2019,Utilities,181.8
+11/2/2019,Entertainment,47.12
+12/2/2019,Dining Out,84.86
+13/2/2019,Groceries,63.97
+14/2/2019,Utilities,70.64
+15/2/2019,Utilities,115.23
+16/2/2019,Entertainment,118.65
+17/2/2019,Dining Out,191.14
+18/2/2019,Utilities,148.75
+19/2/2019,Transportation,178.67
+20/2/2019,Health,24.43
+21/2/2019,Entertainment,88.34
+22/2/2019,Entertainment,89.78
+23/2/2019,Health,150.85
+24/2/2019,Transportation,156.4
+25/2/2019,Dining Out,172.74
+26/2/2019,Dining Out,98.8
+27/2/2019,Groceries,156.43
+28/2/2019,Dining Out,118.3
+1/3/2019,Groceries,54.86
+2/3/2019,Utilities,159.12
+3/3/2019,Health,139.62
+4/3/2019,Transportation,196.93
+5/3/2019,Health,89.09
+6/3/2019,Dining Out,40.84
+7/3/2019,Dining Out,159.3
+8/3/2019,Dining Out,179.12
+9/3/2019,Utilities,107.28
+10/3/2019,Utilities,93.77
+11/3/2019,Entertainment,83.08
+12/3/2019,Dining Out,75.72
+13/3/2019,Entertainment,177.77
+14/3/2019,Health,52.32
+15/3/2019,Utilities,144.53
+16/3/2019,Entertainment,29.7
+17/3/2019,Utilities,93.61
+18/3/2019,Transportation,161.1
+19/3/2019,Dining Out,192.62
+20/3/2019,Groceries,44.79
+21/3/2019,Dining Out,149.62
+22/3/2019,Entertainment,163.34
+23/3/2019,Dining Out,116.97
+24/3/2019,Groceries,48.05
+25/3/2019,Dining Out,96.39
+26/3/2019,Utilities,50.88
+27/3/2019,Entertainment,146.31
+28/3/2019,Transportation,131.53
+29/3/2019,Groceries,174.29
+30/3/2019,Groceries,36.79
+31/3/2019,Groceries,140
+1/4/2019,Groceries,39.02
+2/4/2019,Groceries,92.12
+3/4/2019,Groceries,93.93
+4/4/2019,Entertainment,92.11
+5/4/2019,Entertainment,110.54
+6/4/2019,Groceries,193.88
+7/4/2019,Dining Out,72.02
+8/4/2019,Health,62.1
+9/4/2019,Transportation,168.23
+10/4/2019,Utilities,173.03
+11/4/2019,Health,103.25
+12/4/2019,Health,30.21
+13/4/2019,Entertainment,175.17
+14/4/2019,Health,131.28
+15/4/2019,Dining Out,135.57
+16/4/2019,Entertainment,154.76
+17/4/2019,Health,126.56
+18/4/2019,Groceries,91.36
+19/4/2019,Groceries,197.27
+20/4/2019,Entertainment,28.88
+21/4/2019,Dining Out,184.53
+22/4/2019,Utilities,195.92
+23/4/2019,Dining Out,26.3
+24/4/2019,Transportation,157.31
+25/4/2019,Entertainment,27.62
+26/4/2019,Groceries,132.84
+27/4/2019,Entertainment,93.32
+28/4/2019,Groceries,162.64
+29/4/2019,Utilities,90.16
+30/4/2019,Entertainment,25.73
+1/5/2019,Entertainment,155.1
+2/5/2019,Health,82.79
+3/5/2019,Health,131.36
+4/5/2019,Dining Out,94.08
+5/5/2019,Dining Out,60.81
+6/5/2019,Dining Out,145.42
+7/5/2019,Transportation,170.65
+8/5/2019,Transportation,178.23
+9/5/2019,Utilities,99.39
+10/5/2019,Entertainment,102.91
+11/5/2019,Utilities,172.46
+12/5/2019,Dining Out,127.24
+13/5/2019,Utilities,80.89
+14/5/2019,Entertainment,116.11
+15/5/2019,Utilities,119.47
+16/5/2019,Dining Out,83.17
+17/5/2019,Health,177.26
+18/5/2019,Groceries,59.16
+19/5/2019,Groceries,197.78
+20/5/2019,Health,107.43
+21/5/2019,Entertainment,97.45
+22/5/2019,Entertainment,114.55
+23/5/2019,Dining Out,121.29
+24/5/2019,Utilities,178.1
+25/5/2019,Utilities,39.85
+26/5/2019,Transportation,60.37
+27/5/2019,Transportation,41.6
+28/5/2019,Dining Out,177.6
+29/5/2019,Entertainment,115.33
+30/5/2019,Entertainment,80.6
+31/5/2019,Health,164.14
+1/6/2019,Utilities,28.94
+2/6/2019,Groceries,173.09
+3/6/2019,Utilities,101.3
+4/6/2019,Transportation,173.64
+5/6/2019,Dining Out,131.59
+6/6/2019,Dining Out,198.66
+7/6/2019,Dining Out,89.05
+8/6/2019,Dining Out,61.16
+9/6/2019,Utilities,62.78
+10/6/2019,Health,64.12
+11/6/2019,Entertainment,162.9
+12/6/2019,Groceries,186.53
+13/6/2019,Dining Out,25.41
+14/6/2019,Transportation,46.69
+15/6/2019,Utilities,189.06
+16/6/2019,Entertainment,77.36
+17/6/2019,Utilities,78.68
+18/6/2019,Utilities,199.65
+19/6/2019,Entertainment,107.84
+20/6/2019,Utilities,53.14
+21/6/2019,Transportation,72.89
+22/6/2019,Entertainment,26.27
+23/6/2019,Health,144.02
+24/6/2019,Entertainment,189.5
+25/6/2019,Utilities,110.88
+26/6/2019,Entertainment,76.82
+27/6/2019,Dining Out,196.32
+28/6/2019,Utilities,181.14
+29/6/2019,Utilities,41.54
+30/6/2019,Groceries,67.54
+1/7/2019,Utilities,191.07
+2/7/2019,Health,123.4
+3/7/2019,Transportation,197.17
+4/7/2019,Utilities,148.41
+5/7/2019,Entertainment,118.45
+6/7/2019,Groceries,196.14
+7/7/2019,Entertainment,99.24
+8/7/2019,Entertainment,92.3
+9/7/2019,Entertainment,100.82
+10/7/2019,Transportation,182.91
+11/7/2019,Groceries,163.17
+12/7/2019,Entertainment,176.86
+13/7/2019,Transportation,149.2
+14/7/2019,Health,118.38
+15/7/2019,Entertainment,66.3
+16/7/2019,Utilities,194.04
+17/7/2019,Health,150.41
+18/7/2019,Transportation,108.2
+19/7/2019,Groceries,108.56
+20/7/2019,Health,52.64
+21/7/2019,Utilities,120.03
+22/7/2019,Utilities,134.02
+23/7/2019,Transportation,192.75
+24/7/2019,Health,162.47
+25/7/2019,Dining Out,105.27
+26/7/2019,Groceries,43.03
+27/7/2019,Transportation,30.75
+28/7/2019,Transportation,106.46
+29/7/2019,Health,198.18
+30/7/2019,Health,108.59
+31/7/2019,Utilities,63.86
+1/8/2019,Transportation,60.41
+2/8/2019,Dining Out,95.66
+3/8/2019,Entertainment,61.16
+4/8/2019,Entertainment,77.37
+5/8/2019,Health,91.74
+6/8/2019,Groceries,174.92
+7/8/2019,Groceries,153.2
+8/8/2019,Health,89.1
+9/8/2019,Utilities,181.71
+10/8/2019,Transportation,111.75
+11/8/2019,Dining Out,128.93
+12/8/2019,Entertainment,50.44
+13/8/2019,Health,132.27
+14/8/2019,Utilities,68.62
+15/8/2019,Entertainment,36.17
+16/8/2019,Utilities,97.08
+17/8/2019,Transportation,26.93
+18/8/2019,Transportation,39.92
+19/8/2019,Transportation,82.72
+20/8/2019,Health,183.26
+21/8/2019,Groceries,43.89
+22/8/2019,Health,191.87
+23/8/2019,Dining Out,165.03
+24/8/2019,Groceries,138.34
+25/8/2019,Health,108.73
+26/8/2019,Health,178.12
+27/8/2019,Transportation,80.03
+28/8/2019,Health,55.73
+29/8/2019,Health,100.06
+30/8/2019,Groceries,171.44
+31/8/2019,Utilities,36.32
+1/9/2019,Utilities,50.04
+2/9/2019,Health,25.23
+3/9/2019,Health,48.82
+4/9/2019,Utilities,141.68
+5/9/2019,Utilities,121.78
+6/9/2019,Utilities,40.5
+7/9/2019,Utilities,180.74
+8/9/2019,Entertainment,62.85
+9/9/2019,Transportation,73.5
+10/9/2019,Transportation,112.19
+11/9/2019,Entertainment,124.18
+12/9/2019,Groceries,53.62
+13/9/2019,Entertainment,82.04
+14/9/2019,Groceries,157.89
+15/9/2019,Dining Out,22.29
+16/9/2019,Groceries,87.38
+17/9/2019,Dining Out,126.62
+18/9/2019,Health,159.52
+19/9/2019,Transportation,24.76
+20/9/2019,Health,139
+21/9/2019,Health,182.39
+22/9/2019,Entertainment,42.62
+23/9/2019,Health,151.26
+24/9/2019,Dining Out,108.15
+25/9/2019,Groceries,176.82
+26/9/2019,Utilities,188.01
+27/9/2019,Transportation,52.32
+28/9/2019,Transportation,79.34
+29/9/2019,Groceries,150.49
+30/9/2019,Entertainment,129.19
+1/10/2019,Transportation,75.99
+2/10/2019,Groceries,173.27
+3/10/2019,Entertainment,96.77
+4/10/2019,Transportation,186.05
+5/10/2019,Groceries,141.56
+6/10/2019,Utilities,100.72
+7/10/2019,Dining Out,154.67
+8/10/2019,Transportation,84.79
+9/10/2019,Dining Out,173.66
+10/10/2019,Utilities,185.72
+11/10/2019,Dining Out,83.62
+12/10/2019,Dining Out,129.86
+13/10/2019,Health,180.08
+14/10/2019,Utilities,143.06
+15/10/2019,Entertainment,86.64
+16/10/2019,Groceries,116.91
+17/10/2019,Dining Out,147.48
+18/10/2019,Transportation,123.91
+19/10/2019,Groceries,47.06
+20/10/2019,Dining Out,187.91
+21/10/2019,Health,31.98
+22/10/2019,Dining Out,62.5
+23/10/2019,Dining Out,89.61
+24/10/2019,Health,74.91
+25/10/2019,Dining Out,53
+26/10/2019,Entertainment,108.19
+27/10/2019,Groceries,24.83
+28/10/2019,Utilities,91.63
+29/10/2019,Health,122.89
+30/10/2019,Entertainment,52.08
+31/10/2019,Transportation,86.76
+1/11/2019,Utilities,82.55
+2/11/2019,Transportation,79.57
+3/11/2019,Transportation,171.28
+4/11/2019,Entertainment,134.63
+5/11/2019,Dining Out,49.34
+6/11/2019,Utilities,86.54
+7/11/2019,Groceries,37.98
+8/11/2019,Utilities,116.98
+9/11/2019,Dining Out,72.35
+10/11/2019,Transportation,102.3
+11/11/2019,Transportation,169.44
+12/11/2019,Groceries,149.91
+13/11/2019,Transportation,141.2
+14/11/2019,Utilities,102.83
+15/11/2019,Utilities,194.08
+16/11/2019,Groceries,46.09
+17/11/2019,Entertainment,177.99
+18/11/2019,Groceries,144.07
+19/11/2019,Transportation,28.49
+20/11/2019,Entertainment,121.26
+21/11/2019,Groceries,89.55
+22/11/2019,Transportation,28.62
+23/11/2019,Transportation,126.3
+24/11/2019,Groceries,90.12
+25/11/2019,Utilities,157.31
+26/11/2019,Entertainment,53.02
+27/11/2019,Transportation,110
+28/11/2019,Health,127.35
+29/11/2019,Health,152.89
+30/11/2019,Entertainment,44.95
+1/12/2019,Health,168.56
+2/12/2019,Groceries,193.21
+3/12/2019,Entertainment,168.62
+4/12/2019,Groceries,36.11
+5/12/2019,Dining Out,98
+6/12/2019,Utilities,83.45
+7/12/2019,Utilities,191.21
+8/12/2019,Entertainment,84.87
+9/12/2019,Dining Out,175.57
+10/12/2019,Transportation,81.23
+11/12/2019,Groceries,62.88
+12/12/2019,Dining Out,129.48
+13/12/2019,Health,193.26
+14/12/2019,Utilities,185.02
+15/12/2019,Utilities,99.83
+16/12/2019,Entertainment,163.2
+17/12/2019,Transportation,111.92
+18/12/2019,Utilities,183.08
+19/12/2019,Utilities,59.68
+20/12/2019,Health,132.04
+21/12/2019,Health,95.84
+22/12/2019,Utilities,33.24
+23/12/2019,Utilities,144.04
+24/12/2019,Utilities,137.91
+25/12/2019,Dining Out,122.57
+26/12/2019,Health,57.14
+27/12/2019,Dining Out,180.34
+28/12/2019,Dining Out,177.95
+29/12/2019,Groceries,141.52
+30/12/2019,Dining Out,135.52
+31/12/2019,Entertainment,111.8
+1/1/2020,Dining Out,63.15
+2/1/2020,Utilities,25.92
+3/1/2020,Groceries,135.39
+4/1/2020,Health,50.78
+5/1/2020,Health,144.14
+6/1/2020,Health,73.37
+7/1/2020,Entertainment,49.85
+8/1/2020,Entertainment,101.02
+9/1/2020,Transportation,98.15
+10/1/2020,Transportation,93.67
+11/1/2020,Groceries,193.09
+12/1/2020,Groceries,62.09
+13/1/2020,Dining Out,168.32
+14/1/2020,Health,187.41
+15/1/2020,Utilities,100.61
+16/1/2020,Health,71.79
+17/1/2020,Utilities,159.95
+18/1/2020,Entertainment,48.09
+19/1/2020,Dining Out,133.38
+20/1/2020,Health,66.76
+21/1/2020,Utilities,165.46
+22/1/2020,Utilities,199.33
+23/1/2020,Utilities,27.25
+24/1/2020,Health,130.95
+25/1/2020,Utilities,47.55
+26/1/2020,Utilities,139.56
+27/1/2020,Transportation,41.63
+28/1/2020,Entertainment,155.28
+29/1/2020,Entertainment,112.56
+30/1/2020,Utilities,61.91
+31/1/2020,Groceries,118.92
+1/2/2020,Entertainment,195.97
+2/2/2020,Groceries,22.61
+3/2/2020,Utilities,191.25
+4/2/2020,Health,175.98
+5/2/2020,Transportation,148.15
+6/2/2020,Utilities,187.04
+7/2/2020,Dining Out,71.42
+8/2/2020,Groceries,55.5
+9/2/2020,Dining Out,23.66
+10/2/2020,Groceries,58.6
+11/2/2020,Health,144.51
+12/2/2020,Transportation,126.85
+13/2/2020,Groceries,162.21
+14/2/2020,Transportation,177.61
+15/2/2020,Entertainment,48.38
+16/2/2020,Groceries,197.86
+17/2/2020,Health,90.98
+18/2/2020,Health,43.93
+19/2/2020,Transportation,193.87
+20/2/2020,Dining Out,148.55
+21/2/2020,Transportation,87.85
+22/2/2020,Utilities,58.51
+23/2/2020,Groceries,37.63
+24/2/2020,Health,67.99
+25/2/2020,Utilities,109.49
+26/2/2020,Dining Out,43.76
+27/2/2020,Transportation,110.32
+28/2/2020,Health,176.32
+29/2/2020,Health,182.31
+1/3/2020,Health,21.57
+2/3/2020,Groceries,20.11
+3/3/2020,Health,95.46
+4/3/2020,Groceries,104.85
+5/3/2020,Utilities,142.47
+6/3/2020,Utilities,139.22
+7/3/2020,Entertainment,189.87
+8/3/2020,Entertainment,113.52
+9/3/2020,Transportation,171.31
+10/3/2020,Entertainment,150.11
+11/3/2020,Dining Out,122.36
+12/3/2020,Utilities,114.75
+13/3/2020,Utilities,144.23
+14/3/2020,Groceries,173.29
+15/3/2020,Groceries,191.05
+16/3/2020,Utilities,164.11
+17/3/2020,Utilities,186.47
+18/3/2020,Health,191.3
+19/3/2020,Health,58.78
+20/3/2020,Entertainment,149.13
+21/3/2020,Utilities,79.7
+22/3/2020,Dining Out,32.62
+23/3/2020,Transportation,62.44
+24/3/2020,Dining Out,88.9
+25/3/2020,Utilities,60.24
+26/3/2020,Groceries,57.87
+27/3/2020,Health,139.16
+28/3/2020,Health,169.28
+29/3/2020,Utilities,177.75
+30/3/2020,Groceries,66.37
+31/3/2020,Transportation,195.44
+1/4/2020,Utilities,141.57
+2/4/2020,Transportation,20.79
+3/4/2020,Entertainment,186.19
+4/4/2020,Transportation,56.14
+5/4/2020,Utilities,140.34
+6/4/2020,Groceries,70.55
+7/4/2020,Dining Out,44.04
+8/4/2020,Utilities,160.47
+9/4/2020,Entertainment,115.09
+10/4/2020,Entertainment,138.67
+11/4/2020,Utilities,198.42
+12/4/2020,Transportation,73.27
+13/4/2020,Health,162.02
+14/4/2020,Entertainment,135.79
+15/4/2020,Dining Out,34.38
+16/4/2020,Health,57.21
+17/4/2020,Health,165.21
+18/4/2020,Entertainment,189.72
+19/4/2020,Groceries,71.48
+20/4/2020,Transportation,187.32
+21/4/2020,Transportation,76.93
+22/4/2020,Utilities,161.2
+23/4/2020,Dining Out,47.35
+24/4/2020,Utilities,133.52
+25/4/2020,Dining Out,71.1
+26/4/2020,Health,141.65
+27/4/2020,Dining Out,47.57
+28/4/2020,Transportation,128.11
+29/4/2020,Health,66.01
+30/4/2020,Groceries,40.13
+1/5/2020,Dining Out,188.7
+2/5/2020,Dining Out,178.55
+3/5/2020,Dining Out,34.09
+4/5/2020,Health,73.27
+5/5/2020,Utilities,59.44
+6/5/2020,Groceries,189.15
+7/5/2020,Health,32.6
+8/5/2020,Groceries,148.15
+9/5/2020,Entertainment,146.51
+10/5/2020,Utilities,65.7
+11/5/2020,Entertainment,128.84
+12/5/2020,Dining Out,34.59
+13/5/2020,Utilities,22.56
+14/5/2020,Dining Out,171.15
+15/5/2020,Entertainment,171.39
+16/5/2020,Utilities,66.66
+17/5/2020,Transportation,60.56
+18/5/2020,Transportation,135.49
+19/5/2020,Groceries,28.15
+20/5/2020,Utilities,79.75
+21/5/2020,Health,48.05
+22/5/2020,Groceries,142.16
+23/5/2020,Utilities,160.19
+24/5/2020,Health,179.52
+25/5/2020,Entertainment,83.09
+26/5/2020,Utilities,184.29
+27/5/2020,Health,196.8
+28/5/2020,Transportation,102.55
+29/5/2020,Utilities,195.06
+30/5/2020,Groceries,131.1
+31/5/2020,Dining Out,38.73
+1/6/2020,Groceries,105.96
+2/6/2020,Utilities,64.44
+3/6/2020,Dining Out,52.69
+4/6/2020,Health,176.41
+5/6/2020,Transportation,159.43
+6/6/2020,Entertainment,165.36
+7/6/2020,Health,119.65
+8/6/2020,Health,177.15
+9/6/2020,Health,76.91
+10/6/2020,Utilities,51.69
+11/6/2020,Utilities,143.33
+12/6/2020,Groceries,53.61
+13/6/2020,Transportation,171.73
+14/6/2020,Entertainment,45.73
+15/6/2020,Dining Out,86.99
+16/6/2020,Health,168.54
+17/6/2020,Health,181.85
+18/6/2020,Utilities,178.5
+19/6/2020,Health,96.34
+20/6/2020,Utilities,98.38
+21/6/2020,Health,133.39
+22/6/2020,Groceries,42.71
+23/6/2020,Health,151.1
+24/6/2020,Entertainment,174.66
+25/6/2020,Groceries,134.69
+26/6/2020,Entertainment,67.94
+27/6/2020,Entertainment,138.21
+28/6/2020,Dining Out,199.5
+29/6/2020,Dining Out,98.29
+30/6/2020,Dining Out,136.23
+1/7/2020,Entertainment,188.79
+2/7/2020,Utilities,79.73
+3/7/2020,Utilities,32.84
+4/7/2020,Health,66.29
+5/7/2020,Dining Out,22.57
+6/7/2020,Entertainment,198.37
+7/7/2020,Utilities,108.8
+8/7/2020,Health,76.93
+9/7/2020,Health,71.49
+10/7/2020,Groceries,140.44
+11/7/2020,Health,92.38
+12/7/2020,Transportation,178.73
+13/7/2020,Dining Out,39.35
+14/7/2020,Dining Out,59.78
+15/7/2020,Groceries,59.55
+16/7/2020,Dining Out,172.66
+17/7/2020,Transportation,48.17
+18/7/2020,Health,173.93
+19/7/2020,Entertainment,187.42
+20/7/2020,Transportation,170.28
+21/7/2020,Transportation,74.85
+22/7/2020,Transportation,193.95
+23/7/2020,Groceries,42.4
+24/7/2020,Groceries,129.19
+25/7/2020,Transportation,94.84
+26/7/2020,Transportation,144.9
+27/7/2020,Dining Out,72.51
+28/7/2020,Transportation,150.11
+29/7/2020,Transportation,138.28
+30/7/2020,Transportation,52.92
+31/7/2020,Groceries,166.87
+1/8/2020,Utilities,97.3
+2/8/2020,Health,143.63
+3/8/2020,Entertainment,91.27
+4/8/2020,Utilities,56.18
+5/8/2020,Health,199.69
+6/8/2020,Groceries,158.56
+7/8/2020,Entertainment,67.64
+8/8/2020,Utilities,84.97
+9/8/2020,Health,127.42
+10/8/2020,Entertainment,138.38
+11/8/2020,Health,97.82
+12/8/2020,Transportation,115.97
+13/8/2020,Transportation,62.89
+14/8/2020,Transportation,181.98
+15/8/2020,Entertainment,164.41
+16/8/2020,Dining Out,107.62
+17/8/2020,Transportation,72.79
+18/8/2020,Utilities,57.18
+19/8/2020,Transportation,170.37
+20/8/2020,Dining Out,40.39
+21/8/2020,Utilities,32.23
+22/8/2020,Health,30
+23/8/2020,Transportation,179.92
+24/8/2020,Dining Out,193.79
+25/8/2020,Entertainment,118.75
+26/8/2020,Dining Out,118.93
+27/8/2020,Groceries,112.4
+28/8/2020,Groceries,108.99
+29/8/2020,Entertainment,32.39
+30/8/2020,Health,73.29
+31/8/2020,Utilities,109.03
+1/9/2020,Health,135.84
+2/9/2020,Groceries,143.9
+3/9/2020,Dining Out,195.61
+4/9/2020,Dining Out,179.39
+5/9/2020,Utilities,97.35
+6/9/2020,Entertainment,128.27
+7/9/2020,Entertainment,82.22
+8/9/2020,Health,89.11
+9/9/2020,Entertainment,31.63
+10/9/2020,Dining Out,133.28
+11/9/2020,Entertainment,70.27
+12/9/2020,Health,141.37
+13/9/2020,Dining Out,21.64
+14/9/2020,Dining Out,190.4
+15/9/2020,Utilities,146.45
+16/9/2020,Groceries,27.27
+17/9/2020,Health,104.58
+18/9/2020,Groceries,69.12
+19/9/2020,Health,84.15
+20/9/2020,Groceries,48.12
+21/9/2020,Groceries,30.19
+22/9/2020,Transportation,46.72
+23/9/2020,Groceries,95.39
+24/9/2020,Utilities,49.26
+25/9/2020,Groceries,140.23
+26/9/2020,Groceries,175.22
+27/9/2020,Health,171.06
+28/9/2020,Transportation,148.64
+29/9/2020,Transportation,44.05
+30/9/2020,Groceries,126.78
+1/10/2020,Dining Out,131.49
+2/10/2020,Transportation,86.72
+3/10/2020,Health,118.36
+4/10/2020,Health,175.31
+5/10/2020,Entertainment,187.86
+6/10/2020,Entertainment,133.88
+7/10/2020,Utilities,69.56
+8/10/2020,Entertainment,192.41
+9/10/2020,Groceries,88.42
+10/10/2020,Entertainment,167.14
+11/10/2020,Transportation,178.34
+12/10/2020,Utilities,29.46
+13/10/2020,Entertainment,58.85
+14/10/2020,Health,99.93
+15/10/2020,Dining Out,183.06
+16/10/2020,Transportation,190.85
+17/10/2020,Transportation,47.66
+18/10/2020,Dining Out,29.76
+19/10/2020,Health,195.52
+20/10/2020,Health,62.89
+21/10/2020,Entertainment,110.49
+22/10/2020,Entertainment,100.88
+23/10/2020,Utilities,170.6
+24/10/2020,Entertainment,140.62
+25/10/2020,Dining Out,176.03
+26/10/2020,Utilities,142.3
+27/10/2020,Dining Out,140.97
+28/10/2020,Utilities,142.37
+29/10/2020,Dining Out,21.62
+30/10/2020,Health,65.4
+31/10/2020,Dining Out,81
+1/11/2020,Transportation,151.49
+2/11/2020,Transportation,132.44
+3/11/2020,Groceries,167.12
+4/11/2020,Health,69
+5/11/2020,Transportation,124.48
+6/11/2020,Transportation,178.04
+7/11/2020,Health,88.2
+8/11/2020,Transportation,195.53
+9/11/2020,Entertainment,38.44
+10/11/2020,Utilities,96.48
+11/11/2020,Entertainment,198
+12/11/2020,Transportation,61.05
+13/11/2020,Entertainment,169.98
+14/11/2020,Health,26.26
+15/11/2020,Dining Out,113.41
+16/11/2020,Entertainment,130.69
+17/11/2020,Utilities,124.03
+18/11/2020,Transportation,116.63
+19/11/2020,Groceries,179.63
+20/11/2020,Utilities,124.34
+21/11/2020,Groceries,92.58
+22/11/2020,Utilities,23.53
+23/11/2020,Groceries,136.53
+24/11/2020,Utilities,50.78
+25/11/2020,Dining Out,94.14
+26/11/2020,Entertainment,199.33
+27/11/2020,Entertainment,120.15
+28/11/2020,Transportation,23.05
+29/11/2020,Transportation,68.07
+30/11/2020,Health,50.15
+1/12/2020,Groceries,74.14
+2/12/2020,Groceries,40.95
+3/12/2020,Transportation,177.24
+4/12/2020,Transportation,154.92
+5/12/2020,Entertainment,45.84
+6/12/2020,Utilities,58.84
+7/12/2020,Health,187.92
+8/12/2020,Transportation,190.98
+9/12/2020,Transportation,68.55
+10/12/2020,Transportation,47.82
+11/12/2020,Entertainment,22.1
+12/12/2020,Utilities,67.61
+13/12/2020,Health,146.25
+14/12/2020,Transportation,30.94
+15/12/2020,Dining Out,88.23
+16/12/2020,Entertainment,47.74
+17/12/2020,Transportation,61.27
+18/12/2020,Utilities,158.78
+19/12/2020,Groceries,51.43
+20/12/2020,Entertainment,159.94
+21/12/2020,Dining Out,37.61
+22/12/2020,Transportation,89.01
+23/12/2020,Transportation,163.09
+24/12/2020,Health,59.64
+25/12/2020,Health,147.92
+26/12/2020,Transportation,179.71
+27/12/2020,Dining Out,130
+28/12/2020,Groceries,167.21
+29/12/2020,Dining Out,98.21
+30/12/2020,Entertainment,120.66
+31/12/2020,Entertainment,115.44
+1/1/2021,Entertainment,43.38
+2/1/2021,Entertainment,99.44
+3/1/2021,Utilities,46.24
+4/1/2021,Groceries,168.76
+5/1/2021,Health,175.26
+6/1/2021,Transportation,167.67
+7/1/2021,Entertainment,69.42
+8/1/2021,Utilities,108.41
+9/1/2021,Utilities,192.35
+10/1/2021,Utilities,25.22
+11/1/2021,Dining Out,22.54
+12/1/2021,Transportation,145.65
+13/1/2021,Entertainment,164.94
+14/1/2021,Dining Out,94.49
+15/1/2021,Transportation,38.98
+16/1/2021,Transportation,163.09
+17/1/2021,Entertainment,34.9
+18/1/2021,Transportation,126.07
+19/1/2021,Dining Out,107.06
+20/1/2021,Transportation,147.5
+21/1/2021,Utilities,61.2
+22/1/2021,Dining Out,198.47
+23/1/2021,Transportation,38.51
+24/1/2021,Groceries,39.36
+25/1/2021,Entertainment,176.02
+26/1/2021,Entertainment,197.63
+27/1/2021,Entertainment,164.15
+28/1/2021,Groceries,26.69
+29/1/2021,Entertainment,77.23
+30/1/2021,Dining Out,104.51
+31/1/2021,Entertainment,106.32
+1/2/2021,Dining Out,41.09
+2/2/2021,Groceries,43.9
+3/2/2021,Utilities,47.79
+4/2/2021,Dining Out,34.43
+5/2/2021,Utilities,146.55
+6/2/2021,Utilities,71.29
+7/2/2021,Utilities,95.75
+8/2/2021,Transportation,194.2
+9/2/2021,Health,72.69
+10/2/2021,Health,99.68
+11/2/2021,Groceries,114.16
+12/2/2021,Groceries,121.37
+13/2/2021,Groceries,192.63
+14/2/2021,Groceries,62.99
+15/2/2021,Health,46.71
+16/2/2021,Utilities,177.28
+17/2/2021,Utilities,176.24
+18/2/2021,Groceries,21.69
+19/2/2021,Dining Out,59.98
+20/2/2021,Transportation,194.13
+21/2/2021,Utilities,130.83
+22/2/2021,Utilities,63.77
+23/2/2021,Utilities,111.75
+24/2/2021,Utilities,33.33
+25/2/2021,Transportation,121.09
+26/2/2021,Transportation,147.15
+27/2/2021,Groceries,168.89
+28/2/2021,Utilities,68.99
+1/3/2021,Entertainment,123.1
+2/3/2021,Dining Out,199.45
+3/3/2021,Utilities,81.49
+4/3/2021,Entertainment,95.47
+5/3/2021,Groceries,178.43
+6/3/2021,Transportation,143.03
+7/3/2021,Dining Out,164.32
+8/3/2021,Dining Out,179.09
+9/3/2021,Health,185.84
+10/3/2021,Dining Out,75.78
+11/3/2021,Transportation,158.09
+12/3/2021,Health,93.19
+13/3/2021,Groceries,166.28
+14/3/2021,Transportation,146.57
+15/3/2021,Dining Out,191.18
+16/3/2021,Transportation,58.9
+17/3/2021,Transportation,62.98
+18/3/2021,Dining Out,28.85
+19/3/2021,Dining Out,103.4
+20/3/2021,Entertainment,21.26
+21/3/2021,Dining Out,130.2
+22/3/2021,Transportation,115.65
+23/3/2021,Health,51.63
+24/3/2021,Entertainment,150.23
+25/3/2021,Health,141.97
+26/3/2021,Groceries,130.14
+27/3/2021,Dining Out,60.12
+28/3/2021,Transportation,50.79
+29/3/2021,Groceries,160.06
+30/3/2021,Groceries,63.93
+31/3/2021,Entertainment,86.2
+1/4/2021,Utilities,120.82
+2/4/2021,Health,84.1
+3/4/2021,Utilities,89.52
+4/4/2021,Groceries,86.63
+5/4/2021,Transportation,163.71
+6/4/2021,Transportation,44.66
+7/4/2021,Groceries,71.53
+8/4/2021,Utilities,82.09
+9/4/2021,Groceries,134.86
+10/4/2021,Groceries,193.18
+11/4/2021,Entertainment,119.88
+12/4/2021,Health,156.11
+13/4/2021,Utilities,153.76
+14/4/2021,Entertainment,27.61
+15/4/2021,Dining Out,186.16
+16/4/2021,Groceries,99.89
+17/4/2021,Dining Out,45.25
+18/4/2021,Utilities,101.19
+19/4/2021,Entertainment,98.45
+20/4/2021,Health,137.86
+21/4/2021,Groceries,36.77
+22/4/2021,Utilities,88.7
+23/4/2021,Utilities,191.18
+24/4/2021,Entertainment,144.58
+25/4/2021,Groceries,107.4
+26/4/2021,Utilities,89.63
+27/4/2021,Transportation,58.6
+28/4/2021,Health,51.31
+29/4/2021,Groceries,91.17
+30/4/2021,Health,27.53
+1/5/2021,Groceries,35.41
+2/5/2021,Dining Out,159.31
+3/5/2021,Transportation,83.02
+4/5/2021,Transportation,111.82
+5/5/2021,Dining Out,101.68
+6/5/2021,Transportation,161.86
+7/5/2021,Health,57.21
+8/5/2021,Dining Out,32.56
+9/5/2021,Groceries,24.38
+10/5/2021,Groceries,118.72
+11/5/2021,Dining Out,118.45
+12/5/2021,Transportation,132.79
+13/5/2021,Groceries,76.63
+14/5/2021,Dining Out,149.92
+15/5/2021,Dining Out,51.5
+16/5/2021,Groceries,176.68
+17/5/2021,Transportation,126.25
+18/5/2021,Dining Out,48.72
+19/5/2021,Dining Out,99.99
+20/5/2021,Groceries,44.56
+21/5/2021,Groceries,36.6
+22/5/2021,Transportation,74.55
+23/5/2021,Health,98.65
+24/5/2021,Health,144.87
+25/5/2021,Dining Out,125.86
+26/5/2021,Transportation,37.59
+27/5/2021,Entertainment,71.36
+28/5/2021,Groceries,109.52
+29/5/2021,Entertainment,43.39
+30/5/2021,Groceries,185.19
+31/5/2021,Dining Out,98.88
+1/6/2021,Health,109.42
+2/6/2021,Utilities,82.76
+3/6/2021,Transportation,100.24
+4/6/2021,Utilities,47.97
+5/6/2021,Transportation,190.61
+6/6/2021,Dining Out,164.6
+7/6/2021,Transportation,161.97
+8/6/2021,Transportation,45.69
+9/6/2021,Groceries,48.75
+10/6/2021,Utilities,149.6
+11/6/2021,Entertainment,134.97
+12/6/2021,Groceries,108.62
+13/6/2021,Dining Out,157.51
+14/6/2021,Dining Out,65.76
+15/6/2021,Groceries,115.97
+16/6/2021,Entertainment,135.55
+17/6/2021,Utilities,199.46
+18/6/2021,Health,42.39
+19/6/2021,Dining Out,105.41
+20/6/2021,Transportation,126.96
+21/6/2021,Transportation,52.19
+22/6/2021,Utilities,164.88
+23/6/2021,Health,106.08
+24/6/2021,Utilities,117.05
+25/6/2021,Health,112.25
+26/6/2021,Dining Out,122.73
+27/6/2021,Health,67.75
+28/6/2021,Transportation,88.47
+29/6/2021,Groceries,160.33
+30/6/2021,Transportation,175.85
+1/7/2021,Groceries,124.33
+2/7/2021,Groceries,97.53
+3/7/2021,Utilities,175.46
+4/7/2021,Dining Out,87.28
+5/7/2021,Health,81.28
+6/7/2021,Transportation,129.56
+7/7/2021,Dining Out,75.65
+8/7/2021,Health,41.65
+9/7/2021,Transportation,154.27
+10/7/2021,Transportation,38.99
+11/7/2021,Utilities,104.29
+12/7/2021,Health,132.88
+13/7/2021,Transportation,81.67
+14/7/2021,Transportation,154.72
+15/7/2021,Groceries,49.02
+16/7/2021,Transportation,186.83
+17/7/2021,Dining Out,98.25
+18/7/2021,Entertainment,54
+19/7/2021,Transportation,80.95
+20/7/2021,Transportation,161.77
+21/7/2021,Transportation,191.89
+22/7/2021,Dining Out,199.7
+23/7/2021,Utilities,93.99
+24/7/2021,Transportation,166.9
+25/7/2021,Groceries,127.13
+26/7/2021,Health,197.03
+27/7/2021,Dining Out,119.38
+28/7/2021,Entertainment,37.17
+29/7/2021,Utilities,36.11
+30/7/2021,Groceries,199.16
+31/7/2021,Dining Out,39.84
+1/8/2021,Transportation,153.36
+2/8/2021,Transportation,166.57
+3/8/2021,Dining Out,47.2
+4/8/2021,Groceries,178.67
+5/8/2021,Groceries,178.68
+6/8/2021,Utilities,170.5
+7/8/2021,Entertainment,92.14
+8/8/2021,Transportation,143.06
+9/8/2021,Entertainment,67.73
+10/8/2021,Health,187.29
+11/8/2021,Groceries,148.99
+12/8/2021,Groceries,132.44
+13/8/2021,Health,130.05
+14/8/2021,Entertainment,46.21
+15/8/2021,Dining Out,49.46
+16/8/2021,Health,46.66
+17/8/2021,Utilities,20.78
+18/8/2021,Health,188.34
+19/8/2021,Health,169.24
+20/8/2021,Dining Out,141.61
+21/8/2021,Dining Out,170.7
+22/8/2021,Transportation,61.98
+23/8/2021,Health,198.47
+24/8/2021,Health,159.35
+25/8/2021,Entertainment,34.66
+26/8/2021,Groceries,89.74
+27/8/2021,Dining Out,197.42
+28/8/2021,Utilities,197.06
+29/8/2021,Health,136.38
+30/8/2021,Dining Out,68.79
+31/8/2021,Utilities,73.57
+1/9/2021,Entertainment,69.35
+2/9/2021,Groceries,32.15
+3/9/2021,Transportation,85.98
+4/9/2021,Dining Out,66.32
+5/9/2021,Dining Out,109.09
+6/9/2021,Transportation,89.41
+7/9/2021,Transportation,182.94
+8/9/2021,Dining Out,120.58
+9/9/2021,Utilities,117.99
+10/9/2021,Entertainment,43
+11/9/2021,Entertainment,170.39
+12/9/2021,Dining Out,63.58
+13/9/2021,Health,188
+14/9/2021,Utilities,186.09
+15/9/2021,Groceries,108.73
+16/9/2021,Health,159.02
+17/9/2021,Dining Out,111.5
+18/9/2021,Utilities,120.5
+19/9/2021,Groceries,110.61
+20/9/2021,Dining Out,108.27
+21/9/2021,Groceries,133.42
+22/9/2021,Groceries,60.74
+23/9/2021,Health,77.18
+24/9/2021,Transportation,192.71
+25/9/2021,Groceries,35.3
+26/9/2021,Utilities,87.34
+27/9/2021,Dining Out,193.89
+28/9/2021,Entertainment,165.94
+29/9/2021,Dining Out,184.76
+30/9/2021,Health,43.02
+1/10/2021,Health,145.24
+2/10/2021,Dining Out,112.8
+3/10/2021,Health,116.8
+4/10/2021,Dining Out,85.81
+5/10/2021,Groceries,129.39
+6/10/2021,Dining Out,110.71
+7/10/2021,Entertainment,36.37
+8/10/2021,Health,33.75
+9/10/2021,Health,114.17
+10/10/2021,Utilities,141.27
+11/10/2021,Transportation,34.76
+12/10/2021,Dining Out,153.13
+13/10/2021,Entertainment,136.76
+14/10/2021,Dining Out,20.25
+15/10/2021,Transportation,133.06
+16/10/2021,Transportation,173.98
+17/10/2021,Dining Out,54.91
+18/10/2021,Groceries,101.05
+19/10/2021,Entertainment,159.78
+20/10/2021,Entertainment,46.65
+21/10/2021,Groceries,21.12
+22/10/2021,Dining Out,61.04
+23/10/2021,Utilities,175.69
+24/10/2021,Groceries,36.47
+25/10/2021,Transportation,45.45
+26/10/2021,Groceries,128.76
+27/10/2021,Utilities,87.59
+28/10/2021,Transportation,86.11
+29/10/2021,Health,36.54
+30/10/2021,Utilities,59.31
+31/10/2021,Groceries,189.86
+1/11/2021,Health,155.71
+2/11/2021,Health,38.46
+3/11/2021,Dining Out,139.47
+4/11/2021,Utilities,144.99
+5/11/2021,Utilities,31.09
+6/11/2021,Transportation,36.89
+7/11/2021,Transportation,153.5
+8/11/2021,Utilities,194.91
+9/11/2021,Dining Out,51.61
+10/11/2021,Health,187.41
+11/11/2021,Health,141.58
+12/11/2021,Health,188.95
+13/11/2021,Utilities,73.93
+14/11/2021,Utilities,77.19
+15/11/2021,Health,37.23
+16/11/2021,Transportation,98.4
+17/11/2021,Health,51.87
+18/11/2021,Dining Out,75.94
+19/11/2021,Entertainment,73.94
+20/11/2021,Dining Out,188.13
+21/11/2021,Utilities,54.79
+22/11/2021,Entertainment,194.07
+23/11/2021,Dining Out,172.69
+24/11/2021,Dining Out,69.9
+25/11/2021,Groceries,62.31
+26/11/2021,Dining Out,91.8
+27/11/2021,Entertainment,43.48
+28/11/2021,Utilities,114.26
+29/11/2021,Utilities,67.19
+30/11/2021,Utilities,167.63
+1/12/2021,Transportation,128.8
+2/12/2021,Entertainment,90.4
+3/12/2021,Groceries,120.77
+4/12/2021,Health,67.72
+5/12/2021,Groceries,181.87
+6/12/2021,Dining Out,58.69
+7/12/2021,Dining Out,36.76
+8/12/2021,Transportation,60.31
+9/12/2021,Utilities,119.6
+10/12/2021,Entertainment,66.03
+11/12/2021,Entertainment,46.88
+12/12/2021,Utilities,191.17
+13/12/2021,Dining Out,124.42
+14/12/2021,Groceries,147.33
+15/12/2021,Groceries,35.25
+16/12/2021,Groceries,73.01
+17/12/2021,Dining Out,33.29
+18/12/2021,Utilities,102.93
+19/12/2021,Groceries,60.52
+20/12/2021,Groceries,199.8
+21/12/2021,Health,197.71
+22/12/2021,Dining Out,26.16
+23/12/2021,Entertainment,176.04
+24/12/2021,Utilities,134.96
+25/12/2021,Health,182.32
+26/12/2021,Transportation,178.38
+27/12/2021,Transportation,156.64
+28/12/2021,Groceries,80.94
+29/12/2021,Transportation,114.94
+30/12/2021,Transportation,155.3
+31/12/2021,Transportation,32.78
+1/1/2022,Groceries,28.89
+2/1/2022,Health,88.15
+3/1/2022,Utilities,141.08
+4/1/2022,Health,151.19
+5/1/2022,Transportation,35.59
+6/1/2022,Transportation,189.82
+7/1/2022,Health,45.22
+8/1/2022,Utilities,68.82
+9/1/2022,Health,151.65
+10/1/2022,Entertainment,112.27
+11/1/2022,Transportation,40.56
+12/1/2022,Utilities,127.29
+13/1/2022,Groceries,77.09
+14/1/2022,Dining Out,189.99
+15/1/2022,Health,32.42
+16/1/2022,Dining Out,129.72
+17/1/2022,Entertainment,37.12
+18/1/2022,Groceries,131.92
+19/1/2022,Entertainment,117.97
+20/1/2022,Entertainment,189.8
+21/1/2022,Groceries,38.85
+22/1/2022,Groceries,66.59
+23/1/2022,Transportation,82.21
+24/1/2022,Utilities,78.45
+25/1/2022,Dining Out,122.63
+26/1/2022,Dining Out,38.32
+27/1/2022,Health,146.35
+28/1/2022,Entertainment,93.18
+29/1/2022,Health,42.18
+30/1/2022,Utilities,138.33
+31/1/2022,Health,65.67
+1/2/2022,Dining Out,146.92
+2/2/2022,Transportation,36.39
+3/2/2022,Utilities,100.87
+4/2/2022,Groceries,23.55
+5/2/2022,Dining Out,175.77
+6/2/2022,Entertainment,175.81
+7/2/2022,Entertainment,95.71
+8/2/2022,Dining Out,193.5
+9/2/2022,Dining Out,24.2
+10/2/2022,Health,48.36
+11/2/2022,Transportation,24.31
+12/2/2022,Entertainment,121.6
+13/2/2022,Transportation,37.1
+14/2/2022,Utilities,188.55
+15/2/2022,Utilities,181.87
+16/2/2022,Entertainment,88.67
+17/2/2022,Health,37.11
+18/2/2022,Dining Out,32.26
+19/2/2022,Dining Out,59.84
+20/2/2022,Health,35.19
+21/2/2022,Health,24.76
+22/2/2022,Health,116.24
+23/2/2022,Utilities,170.42
+24/2/2022,Utilities,109.04
+25/2/2022,Transportation,118.78
+26/2/2022,Groceries,90.53
+27/2/2022,Groceries,170.83
+28/2/2022,Entertainment,49.04
+1/3/2022,Dining Out,146.74
+2/3/2022,Utilities,127.98
+3/3/2022,Entertainment,73.46
+4/3/2022,Utilities,197.15
+5/3/2022,Health,145.53
+6/3/2022,Transportation,135.54
+7/3/2022,Health,116.18
+8/3/2022,Health,174.27
+9/3/2022,Entertainment,30.42
+10/3/2022,Health,182.45
+11/3/2022,Groceries,31.96
+12/3/2022,Transportation,83.96
+13/3/2022,Dining Out,76.03
+14/3/2022,Dining Out,160.68
+15/3/2022,Entertainment,171.4
+16/3/2022,Entertainment,74.56
+17/3/2022,Health,182.91
+18/3/2022,Health,193.62
+19/3/2022,Entertainment,147.48
+20/3/2022,Dining Out,139.6
+21/3/2022,Entertainment,165.99
+22/3/2022,Entertainment,136.99
+23/3/2022,Dining Out,199.13
+24/3/2022,Utilities,80.94
+25/3/2022,Transportation,105.69
+26/3/2022,Groceries,173.53
+27/3/2022,Entertainment,154.19
+28/3/2022,Health,88.52
+29/3/2022,Utilities,199.57
+30/3/2022,Health,63.58
+31/3/2022,Transportation,177.8
+1/4/2022,Utilities,54.93
+2/4/2022,Dining Out,159.64
+3/4/2022,Dining Out,106.7
+4/4/2022,Entertainment,164.73
+5/4/2022,Health,83.2
+6/4/2022,Dining Out,158.41
+7/4/2022,Groceries,197.52
+8/4/2022,Dining Out,173.64
+9/4/2022,Utilities,172.36
+10/4/2022,Dining Out,198.85
+11/4/2022,Dining Out,187.07
+12/4/2022,Utilities,167.82
+13/4/2022,Groceries,36.99
+14/4/2022,Health,189.77
+15/4/2022,Health,32.12
+16/4/2022,Health,50
+17/4/2022,Entertainment,92.51
+18/4/2022,Dining Out,44.68
+19/4/2022,Health,160.6
+20/4/2022,Health,114.39
+21/4/2022,Utilities,110.23
+22/4/2022,Entertainment,147.06
+23/4/2022,Groceries,79.64
+24/4/2022,Health,55.34
+25/4/2022,Utilities,26.04
+26/4/2022,Transportation,116.53
+27/4/2022,Entertainment,69.08
+28/4/2022,Health,111.88
+29/4/2022,Transportation,105.98
+30/4/2022,Utilities,48.64
+1/5/2022,Groceries,168.4
+2/5/2022,Health,71.92
+3/5/2022,Utilities,162.64
+4/5/2022,Entertainment,112.35
+5/5/2022,Dining Out,111.05
+6/5/2022,Health,168.59
+7/5/2022,Entertainment,38.74
+8/5/2022,Transportation,42.7
+9/5/2022,Dining Out,135.84
+10/5/2022,Health,167.24
+11/5/2022,Health,105.62
+12/5/2022,Transportation,117.55
+13/5/2022,Dining Out,56.74
+14/5/2022,Transportation,137.01
+15/5/2022,Entertainment,28.91
+16/5/2022,Utilities,54.89
+17/5/2022,Transportation,108.23
+18/5/2022,Transportation,178.15
+19/5/2022,Groceries,132.9
+20/5/2022,Groceries,116.51
+21/5/2022,Transportation,95.94
+22/5/2022,Groceries,121.22
+23/5/2022,Dining Out,150.36
+24/5/2022,Entertainment,157.17
+25/5/2022,Transportation,167.16
+26/5/2022,Health,161.85
+27/5/2022,Transportation,43.67
+28/5/2022,Entertainment,166.77
+29/5/2022,Transportation,158.42
+30/5/2022,Health,189.6
+31/5/2022,Utilities,48
+1/6/2022,Health,141.27
+2/6/2022,Utilities,76.76
+3/6/2022,Utilities,113.11
+4/6/2022,Health,96.09
+5/6/2022,Utilities,159.5
+6/6/2022,Groceries,143.12
+7/6/2022,Entertainment,20.89
+8/6/2022,Utilities,59.99
+9/6/2022,Transportation,191.86
+10/6/2022,Dining Out,144.72
+11/6/2022,Utilities,52.41
+12/6/2022,Dining Out,182.6
+13/6/2022,Groceries,77.21
+14/6/2022,Entertainment,72.95
+15/6/2022,Dining Out,78.79
+16/6/2022,Groceries,160.01
+17/6/2022,Groceries,121.74
+18/6/2022,Entertainment,25.17
+19/6/2022,Health,173.51
+20/6/2022,Transportation,186.44
+21/6/2022,Utilities,83.87
+22/6/2022,Entertainment,123.4
+23/6/2022,Entertainment,71.22
+24/6/2022,Entertainment,119.41
+25/6/2022,Groceries,105.94
+26/6/2022,Groceries,139.35
+27/6/2022,Transportation,66.15
+28/6/2022,Transportation,103.93
+29/6/2022,Transportation,179.54
+30/6/2022,Utilities,66.24
+1/7/2022,Health,194.61
+2/7/2022,Entertainment,99.71
+3/7/2022,Health,139.34
+4/7/2022,Groceries,60.36
+5/7/2022,Transportation,110.07
+6/7/2022,Entertainment,93.03
+7/7/2022,Health,50.56
+8/7/2022,Utilities,60.28
+9/7/2022,Utilities,140.99
+10/7/2022,Entertainment,114.54
+11/7/2022,Groceries,112.74
+12/7/2022,Health,83.21
+13/7/2022,Groceries,132.09
+14/7/2022,Health,144.69
+15/7/2022,Utilities,65.35
+16/7/2022,Health,169.35
+17/7/2022,Utilities,28.31
+18/7/2022,Utilities,99.39
+19/7/2022,Health,37.86
+20/7/2022,Dining Out,161.64
+21/7/2022,Transportation,25.1
+22/7/2022,Health,74.73
+23/7/2022,Dining Out,74.79
+24/7/2022,Health,128.69
+25/7/2022,Health,69.89
+26/7/2022,Health,128.43
+27/7/2022,Entertainment,148.72
+28/7/2022,Health,120.94
+29/7/2022,Groceries,190.59
+30/7/2022,Dining Out,143.87
+31/7/2022,Groceries,148.5
+1/8/2022,Health,63.68
+2/8/2022,Utilities,122.99
+3/8/2022,Entertainment,167.96
+4/8/2022,Health,65.6
+5/8/2022,Transportation,78.89
+6/8/2022,Transportation,77.95
+7/8/2022,Utilities,113.07
+8/8/2022,Utilities,164.06
+9/8/2022,Dining Out,82.1
+10/8/2022,Dining Out,55.23
+11/8/2022,Entertainment,123.38
+12/8/2022,Dining Out,158.73
+13/8/2022,Utilities,120.77
+14/8/2022,Entertainment,35.33
+15/8/2022,Dining Out,112.53
+16/8/2022,Transportation,145.93
+17/8/2022,Groceries,75.02
+18/8/2022,Health,38.69
+19/8/2022,Dining Out,151.24
+20/8/2022,Transportation,45.92
+21/8/2022,Entertainment,110.77
+22/8/2022,Dining Out,165.72
+23/8/2022,Transportation,133.66
+24/8/2022,Health,107.78
+25/8/2022,Health,130.1
+26/8/2022,Utilities,189.66
+27/8/2022,Dining Out,160.67
+28/8/2022,Dining Out,127.73
+29/8/2022,Transportation,44.18
+30/8/2022,Health,95.89
+31/8/2022,Groceries,26.39
+1/9/2022,Dining Out,131.54
+2/9/2022,Utilities,177.81
+3/9/2022,Groceries,135.99
+4/9/2022,Health,79.72
+5/9/2022,Transportation,88.99
+6/9/2022,Health,162.33
+7/9/2022,Entertainment,135.79
+8/9/2022,Utilities,163.61
+9/9/2022,Dining Out,54.56
+10/9/2022,Groceries,57.12
+11/9/2022,Dining Out,107.84
+12/9/2022,Health,111.41
+13/9/2022,Health,105.66
+14/9/2022,Transportation,80.55
+15/9/2022,Health,30.49
+16/9/2022,Groceries,144.06
+17/9/2022,Groceries,103.55
+18/9/2022,Health,149.1
+19/9/2022,Transportation,191.93
+20/9/2022,Utilities,183.85
+21/9/2022,Health,137.54
+22/9/2022,Health,188.07
+23/9/2022,Dining Out,160.08
+24/9/2022,Dining Out,53.57
+25/9/2022,Groceries,139.26
+26/9/2022,Dining Out,75.87
+27/9/2022,Utilities,89.21
+28/9/2022,Entertainment,64.8
+29/9/2022,Groceries,116.61
+30/9/2022,Entertainment,116.6
+1/10/2022,Transportation,125.22
+2/10/2022,Groceries,146.67
+3/10/2022,Dining Out,20.39
+4/10/2022,Groceries,40.45
+5/10/2022,Utilities,64.9
+6/10/2022,Utilities,138.01
+7/10/2022,Dining Out,104.32
+8/10/2022,Transportation,178.06
+9/10/2022,Dining Out,40.68
+10/10/2022,Groceries,108.92
+11/10/2022,Groceries,64.74
+12/10/2022,Transportation,24.77
+13/10/2022,Dining Out,136.42
+14/10/2022,Utilities,125.08
+15/10/2022,Dining Out,32.11
+16/10/2022,Entertainment,167.49
+17/10/2022,Utilities,24.33
+18/10/2022,Groceries,192.32
+19/10/2022,Transportation,83.01
+20/10/2022,Dining Out,165.74
+21/10/2022,Utilities,103.08
+22/10/2022,Dining Out,84.57
+23/10/2022,Utilities,65.06
+24/10/2022,Transportation,30.76
+25/10/2022,Utilities,25.1
+26/10/2022,Health,176.76
+27/10/2022,Groceries,83.37
+28/10/2022,Transportation,85.42
+29/10/2022,Health,155.22
+30/10/2022,Health,80.23
+31/10/2022,Dining Out,158.32
+1/11/2022,Transportation,175.87
+2/11/2022,Health,93.98
+3/11/2022,Transportation,157.18
+4/11/2022,Entertainment,156.45
+5/11/2022,Dining Out,143.79
+6/11/2022,Groceries,199.91
+7/11/2022,Transportation,24.22
+8/11/2022,Groceries,36.56
+9/11/2022,Groceries,95.23
+10/11/2022,Groceries,151.95
+11/11/2022,Groceries,97.61
+12/11/2022,Utilities,179.37
+13/11/2022,Health,199.72
+14/11/2022,Transportation,118.17
+15/11/2022,Dining Out,108.32
+16/11/2022,Transportation,34.58
+17/11/2022,Health,24.37
+18/11/2022,Entertainment,105.4
+19/11/2022,Dining Out,23.96
+20/11/2022,Transportation,166.26
+21/11/2022,Entertainment,150.49
+22/11/2022,Health,177.36
+23/11/2022,Utilities,128.1
+24/11/2022,Utilities,56.22
+25/11/2022,Transportation,189.05
+26/11/2022,Groceries,56.63
+27/11/2022,Transportation,23.38
+28/11/2022,Entertainment,190.16
+29/11/2022,Entertainment,136.66
+30/11/2022,Utilities,66.97
+1/12/2022,Groceries,115.98
+2/12/2022,Dining Out,136.23
+3/12/2022,Utilities,79.11
+4/12/2022,Transportation,106.43
+5/12/2022,Utilities,27.75
+6/12/2022,Health,95.05
+7/12/2022,Health,52.81
+8/12/2022,Utilities,48.01
+9/12/2022,Transportation,29.59
+10/12/2022,Utilities,142.11
+11/12/2022,Transportation,133.89
+12/12/2022,Transportation,64.94
+13/12/2022,Health,44.58
+14/12/2022,Transportation,168.56
+15/12/2022,Utilities,82.03
+16/12/2022,Health,176.96
+17/12/2022,Utilities,120.18
+18/12/2022,Utilities,111.9
+19/12/2022,Groceries,128.64
+20/12/2022,Health,34.79
+21/12/2022,Dining Out,177.31
+22/12/2022,Health,55.73
+23/12/2022,Dining Out,111.63
+24/12/2022,Groceries,176.84
+25/12/2022,Health,107.59
+26/12/2022,Entertainment,132.14
+27/12/2022,Health,171.87
+28/12/2022,Health,64.51
+29/12/2022,Utilities,45.91
+30/12/2022,Transportation,106.32
+31/12/2022,Groceries,55.13
+1/1/2023,Health,73.25
+2/1/2023,Health,97.39
+3/1/2023,Dining Out,70.68
+4/1/2023,Transportation,174.32
+5/1/2023,Health,51.61
+6/1/2023,Transportation,167.15
+7/1/2023,Groceries,136.19
+8/1/2023,Transportation,175.24
+9/1/2023,Health,169.37
+10/1/2023,Dining Out,48.7
+11/1/2023,Entertainment,193.68
+12/1/2023,Groceries,27.6
+13/1/2023,Transportation,44.86
+14/1/2023,Utilities,158.99
+15/1/2023,Entertainment,134.24
+16/1/2023,Groceries,143.05
+17/1/2023,Dining Out,107
+18/1/2023,Groceries,39.25
+19/1/2023,Entertainment,200
+20/1/2023,Dining Out,89.16
+21/1/2023,Entertainment,163.37
+22/1/2023,Utilities,106.2
+23/1/2023,Dining Out,143.39
+24/1/2023,Entertainment,152.5
+25/1/2023,Groceries,169.26
+26/1/2023,Utilities,92.39
+27/1/2023,Groceries,61.62
+28/1/2023,Health,61.91
+29/1/2023,Transportation,184.5
+30/1/2023,Groceries,158.84
+31/1/2023,Groceries,48.91
+1/2/2023,Groceries,35.63
+2/2/2023,Health,28.27
+3/2/2023,Health,164.04
+4/2/2023,Health,119.56
+5/2/2023,Utilities,113.06
+6/2/2023,Health,104.72
+7/2/2023,Utilities,97.93
+8/2/2023,Groceries,142.49
+9/2/2023,Groceries,27.18
+10/2/2023,Utilities,121.64
+11/2/2023,Transportation,25.42
+12/2/2023,Utilities,41.55
+13/2/2023,Health,45.8
+14/2/2023,Health,130.17
+15/2/2023,Groceries,114.05
+16/2/2023,Groceries,69.32
+17/2/2023,Dining Out,98.64
+18/2/2023,Utilities,199.12
+19/2/2023,Health,140.91
+20/2/2023,Groceries,104.07
+21/2/2023,Health,99.67
+22/2/2023,Utilities,181.82
+23/2/2023,Groceries,129.79
+24/2/2023,Dining Out,34.89
+25/2/2023,Entertainment,89.01
+26/2/2023,Groceries,98.59
+27/2/2023,Groceries,84.8
+28/2/2023,Utilities,126.18
+1/3/2023,Groceries,45.73
+2/3/2023,Utilities,187.73
+3/3/2023,Entertainment,63.97
+4/3/2023,Health,171.21
+5/3/2023,Groceries,105.83
+6/3/2023,Transportation,166
+7/3/2023,Health,179.61
+8/3/2023,Utilities,196.75
+9/3/2023,Entertainment,163.11
+10/3/2023,Entertainment,101.59
+11/3/2023,Health,59.26
+12/3/2023,Groceries,80.53
+13/3/2023,Health,137.87
+14/3/2023,Groceries,153.92
+15/3/2023,Utilities,62.38
+16/3/2023,Dining Out,139.78
+17/3/2023,Health,187.16
+18/3/2023,Entertainment,147.8
+19/3/2023,Health,90.75
+20/3/2023,Transportation,44.12
+21/3/2023,Utilities,120.54
+22/3/2023,Transportation,119.52
+23/3/2023,Health,190.47
+24/3/2023,Utilities,84.98
+25/3/2023,Entertainment,192.58
+26/3/2023,Transportation,35.61
+27/3/2023,Health,177.27
+28/3/2023,Transportation,136.3
+29/3/2023,Health,183.1
+30/3/2023,Groceries,153.24
+31/3/2023,Utilities,102.18
+1/4/2023,Groceries,184.04
+2/4/2023,Utilities,55.4
+3/4/2023,Dining Out,95.62
+4/4/2023,Transportation,27.49
+5/4/2023,Utilities,45.08
+6/4/2023,Health,25.63
+7/4/2023,Transportation,102.86
+8/4/2023,Utilities,72.43
+9/4/2023,Transportation,45.76
+10/4/2023,Utilities,165.48
+11/4/2023,Dining Out,52.43
+12/4/2023,Dining Out,62.79
+13/4/2023,Transportation,131.14
+14/4/2023,Utilities,26.84
+15/4/2023,Transportation,31.99
+16/4/2023,Transportation,177.2
+17/4/2023,Groceries,197.03
+18/4/2023,Dining Out,157.11
+19/4/2023,Entertainment,139.18
+20/4/2023,Dining Out,48.63
+21/4/2023,Groceries,138.1
+22/4/2023,Utilities,188.26
+23/4/2023,Utilities,167.42
+24/4/2023,Health,42.54
+25/4/2023,Entertainment,113.69
+26/4/2023,Entertainment,44.03
+27/4/2023,Groceries,127.57
+28/4/2023,Health,20.02
+29/4/2023,Dining Out,137.89
+30/4/2023,Groceries,181.15
+1/5/2023,Transportation,120.69
+2/5/2023,Transportation,106.53
+3/5/2023,Utilities,39.86
+4/5/2023,Dining Out,30.35
+5/5/2023,Groceries,57.98
+6/5/2023,Dining Out,143.03
+7/5/2023,Dining Out,124
+8/5/2023,Groceries,136.32
+9/5/2023,Entertainment,49.23
+10/5/2023,Entertainment,181.06
+11/5/2023,Dining Out,175.15
+12/5/2023,Entertainment,179.86
+13/5/2023,Utilities,171.43
+14/5/2023,Groceries,98.3
+15/5/2023,Entertainment,92.49
+16/5/2023,Dining Out,89.54
+17/5/2023,Dining Out,125.84
+18/5/2023,Transportation,28.84
+19/5/2023,Transportation,176.61
+20/5/2023,Transportation,101.92
+21/5/2023,Entertainment,81.3
+22/5/2023,Transportation,66.82
+23/5/2023,Dining Out,105.21
+24/5/2023,Entertainment,166.68
+25/5/2023,Entertainment,183.35
+26/5/2023,Groceries,101.93
+27/5/2023,Entertainment,83.69
+28/5/2023,Health,28.85
+29/5/2023,Entertainment,110.13
+30/5/2023,Health,171.39
+31/5/2023,Transportation,193.3
+1/6/2023,Groceries,151.18
+2/6/2023,Utilities,26.88
+3/6/2023,Transportation,99.29
+4/6/2023,Entertainment,186.39
+5/6/2023,Transportation,103.76
+6/6/2023,Groceries,159.11
+7/6/2023,Transportation,108.2
+8/6/2023,Entertainment,60.12
+9/6/2023,Utilities,142.39
+10/6/2023,Groceries,69.68
+11/6/2023,Dining Out,60.83
+12/6/2023,Groceries,198.49
+13/6/2023,Dining Out,159.28
+14/6/2023,Entertainment,148.72
+15/6/2023,Entertainment,47.02
+16/6/2023,Dining Out,21.92
+17/6/2023,Health,140.3
+18/6/2023,Entertainment,20.14
+19/6/2023,Groceries,169.41
+20/6/2023,Groceries,26.33
+21/6/2023,Groceries,106.91
+22/6/2023,Dining Out,95.85
+23/6/2023,Groceries,32.17
+24/6/2023,Groceries,47.18
+25/6/2023,Groceries,174.42
+26/6/2023,Health,109.54
+27/6/2023,Dining Out,166.11
+28/6/2023,Health,26.88
+29/6/2023,Transportation,36.37
+30/6/2023,Transportation,132.28
+1/7/2023,Groceries,182.32
+2/7/2023,Dining Out,59.46
+3/7/2023,Health,72.85
+4/7/2023,Groceries,62.06
+5/7/2023,Utilities,98.68
+6/7/2023,Transportation,175.63
+7/7/2023,Dining Out,113.17
+8/7/2023,Dining Out,115.88
+9/7/2023,Utilities,74.21
+10/7/2023,Health,116.61
+11/7/2023,Groceries,108.09
+12/7/2023,Transportation,185.86
+13/7/2023,Health,38
+14/7/2023,Dining Out,21.77
+15/7/2023,Entertainment,35.8
+16/7/2023,Groceries,151.91
+17/7/2023,Groceries,139.68
+18/7/2023,Groceries,111.92
+19/7/2023,Groceries,159.5
+20/7/2023,Utilities,150.95
+21/7/2023,Transportation,44.91
+22/7/2023,Health,141.57
+23/7/2023,Dining Out,195.21
+24/7/2023,Utilities,60.3
+25/7/2023,Transportation,59.97
+26/7/2023,Groceries,66.08
+27/7/2023,Dining Out,172.83
+28/7/2023,Dining Out,164.46
+29/7/2023,Groceries,63.82
+30/7/2023,Utilities,180.09
+31/7/2023,Transportation,49.09
+1/8/2023,Transportation,48.75
+2/8/2023,Entertainment,94.06
+3/8/2023,Groceries,56.29
+4/8/2023,Entertainment,142.52
+5/8/2023,Utilities,185.24
+6/8/2023,Entertainment,62.27
+7/8/2023,Dining Out,192.74
+8/8/2023,Dining Out,119.82
+9/8/2023,Health,64.55
+10/8/2023,Dining Out,176.21
+11/8/2023,Entertainment,109.17
+12/8/2023,Groceries,30.89
+13/8/2023,Entertainment,145.91
+14/8/2023,Groceries,75.32
+15/8/2023,Entertainment,63.54
+16/8/2023,Dining Out,67.41
+17/8/2023,Health,122.12
+18/8/2023,Transportation,92.53
+19/8/2023,Utilities,113.47
+20/8/2023,Transportation,130.57
+21/8/2023,Entertainment,50.62
+22/8/2023,Groceries,79.66
+23/8/2023,Groceries,197.26
+24/8/2023,Dining Out,22.51
+25/8/2023,Health,108.41
+26/8/2023,Transportation,97.17
+27/8/2023,Entertainment,38.66
+28/8/2023,Transportation,192.42
+29/8/2023,Utilities,78.61
+30/8/2023,Dining Out,24.72
+31/8/2023,Groceries,111.6
+1/9/2023,Groceries,183.29
+2/9/2023,Dining Out,117.98
+3/9/2023,Utilities,85.25
+4/9/2023,Health,110.56
+5/9/2023,Dining Out,31.55
+6/9/2023,Transportation,96.8
+7/9/2023,Groceries,98.78
+8/9/2023,Transportation,125.99
+9/9/2023,Transportation,120.83
+10/9/2023,Utilities,40.44
+11/9/2023,Groceries,66.41
+12/9/2023,Health,104.62
+13/9/2023,Entertainment,199.18
+14/9/2023,Groceries,102.53
+15/9/2023,Entertainment,194.33
+16/9/2023,Utilities,116.54
+17/9/2023,Entertainment,142.3
+18/9/2023,Dining Out,146.03
+19/9/2023,Transportation,149.77
+20/9/2023,Groceries,187.38
+21/9/2023,Health,133.9
+22/9/2023,Utilities,191.18
+23/9/2023,Groceries,146.93
+24/9/2023,Transportation,67.34
+25/9/2023,Dining Out,33.49
+26/9/2023,Utilities,24.1
+27/9/2023,Entertainment,125.88
+28/9/2023,Transportation,48.94
+29/9/2023,Transportation,132.73
+30/9/2023,Health,168.2
+1/10/2023,Transportation,56.59
+2/10/2023,Transportation,29.56
+3/10/2023,Entertainment,172.4
+4/10/2023,Dining Out,160.69
+5/10/2023,Groceries,20.04
+6/10/2023,Health,194.58
+7/10/2023,Health,121.21
+8/10/2023,Transportation,109.92
+9/10/2023,Entertainment,187.78
+10/10/2023,Groceries,84.58
+11/10/2023,Groceries,68.48
+12/10/2023,Utilities,148.16
+13/10/2023,Entertainment,61.43
+14/10/2023,Groceries,100.58
+15/10/2023,Utilities,131
+16/10/2023,Dining Out,44.7
+17/10/2023,Entertainment,145.65
+18/10/2023,Transportation,57.75
+19/10/2023,Dining Out,198.04
+20/10/2023,Health,44.61
+21/10/2023,Groceries,81.24
+22/10/2023,Health,188.8
+23/10/2023,Dining Out,171.14
+24/10/2023,Transportation,160.47
+25/10/2023,Groceries,57.23
+26/10/2023,Groceries,165.66
+27/10/2023,Utilities,131.33
+28/10/2023,Transportation,81.84
+29/10/2023,Entertainment,143.31
+30/10/2023,Utilities,121.75
+31/10/2023,Dining Out,54.34
+1/11/2023,Transportation,197.61
+2/11/2023,Transportation,136.49
+3/11/2023,Utilities,123.12
+4/11/2023,Groceries,113.71
+5/11/2023,Groceries,196.17
+6/11/2023,Transportation,155.35
+7/11/2023,Groceries,111.3
+8/11/2023,Entertainment,21.75
+9/11/2023,Dining Out,185.91
+10/11/2023,Utilities,80.4
+11/11/2023,Utilities,31.87
+12/11/2023,Health,120.87
+13/11/2023,Entertainment,75.9
+14/11/2023,Dining Out,104.43
+15/11/2023,Groceries,141.67
+16/11/2023,Groceries,61.33
+17/11/2023,Transportation,116.15
+18/11/2023,Transportation,198.52
+19/11/2023,Groceries,65.64
+20/11/2023,Transportation,42.46
+21/11/2023,Dining Out,34.8
+22/11/2023,Health,88.24
+23/11/2023,Groceries,163.42
+24/11/2023,Groceries,111.09
+25/11/2023,Health,165.36
+26/11/2023,Transportation,143.11
+27/11/2023,Health,30.69
+28/11/2023,Entertainment,129.91
+29/11/2023,Utilities,134.11
+30/11/2023,Transportation,124.18
+1/12/2023,Dining Out,109.41
+2/12/2023,Transportation,125.8
+3/12/2023,Groceries,35.08
+4/12/2023,Utilities,90.46
+5/12/2023,Dining Out,143.88
+6/12/2023,Health,182.3
+7/12/2023,Health,178.13
+8/12/2023,Health,186.6
+9/12/2023,Health,60.23
+10/12/2023,Entertainment,154.68
+11/12/2023,Transportation,49.12
+12/12/2023,Utilities,153.59
+13/12/2023,Entertainment,46.52
+14/12/2023,Groceries,157.25
+15/12/2023,Dining Out,119.3
+16/12/2023,Entertainment,111.44
+17/12/2023,Transportation,52.36
+18/12/2023,Utilities,127.03
+19/12/2023,Groceries,113.54
+20/12/2023,Transportation,58.71
+21/12/2023,Utilities,111.13
+22/12/2023,Dining Out,164.28
+23/12/2023,Transportation,152.85
+24/12/2023,Utilities,165.96
+25/12/2023,Dining Out,101.13
+26/12/2023,Health,28.11
+27/12/2023,Entertainment,164.03
+28/12/2023,Dining Out,153.23
+29/12/2023,Groceries,84.57
+30/12/2023,Entertainment,106.17
+31/12/2023,Transportation,187.9
