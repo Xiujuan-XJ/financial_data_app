@@ -1,3 +1,10 @@
 Flask
 pandas
 matplotlib
+python-dotenv
+werkzeug
+datetime
+pandas
+numpy
+matplotlib
+flask_cors

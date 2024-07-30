@@ -1,4 +1,4 @@
-#!/Users/xiujuan/Documents/GitHub/financial_data_app/financial_app_env/bin/python3.12
+#!/Users/xiujuan/Documents/GitHub/financial_data_app/client/financial_app_env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
