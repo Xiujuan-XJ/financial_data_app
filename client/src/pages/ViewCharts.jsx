@@ -6,47 +6,56 @@ import BarChart from "../components/BarChart";
 import LineChart from '../components/LineChart';
 import PieChart from '../components/PieChart';
 
-const hardcodedResponseData = {
-    "category_totals": {
-        "amount": {
-            "0": 33407.86,
-            "1": 30209.94,
-            "2": 32965.54,
-            "3": 34812.27,
-            "4": 35263.36,
-            "5": 34830.48
-        },
-        "category": {
-            "0": "Dining Out",
-            "1": "Entertainment",
-            "2": "Groceries",
-            "3": "Health",
-            "4": "Transportation",
-            "5": "Utilities"
-        }
-    },
-    "yearly_expenses": {
-        "amount": {
-            "2019": 100000,
-            "2020": 120000,
-            "2021": 150000
-        },
-        "category": {
-            "2019": "2019",
-            "2020": "2020",
-            "2021": "2021"
-        }
-    },
-    "monthly_expenses": {
-        // Add appropriate data structure here
-    },
-    "daily_expenses": {
-        // Add appropriate data structure here
-    },
-    "xiujuan_expenses": {
-        // Add appropriate data structure here
-    }
-};
+// const hardcodedResponseData = {
+//     "category_totals": {
+//         "amount": {
+//             "0": 33407.86,
+//             "1": 30209.94,
+//             "2": 32965.54,
+//             "3": 34812.27,
+//             "4": 35263.36,
+//             "5": 34830.48
+//         },
+//         "category": {
+//             "0": "Dining Out",
+//             "1": "Entertainment",
+//             "2": "Groceries",
+//             "3": "Health",
+//             "4": "Transportation",
+//             "5": "Utilities"
+//         }
+//     },
+//     "yearly_expenses": {
+//         "amount": {
+//             "2019": 100000,
+//             "2020": 120000,
+//             "2021": 150000
+//         },
+//         "category": {
+//             "2019": "2019",
+//             "2020": "2020",
+//             "2021": "2021"
+//         }
+//     },
+//     "monthly_expenses": {
+//         // Add appropriate data structure here
+//     },
+//     "daily_expenses": {
+//         // Add appropriate data structure here
+//     },
+//     "xiujuan_expenses": {
+//         "amount": {
+//             "2019": 100000,
+//             "2020": 120000,
+//             "2021": 150000
+//         },
+//         "category": {
+//             "2019": "2019",
+//             "2020": "2020",
+//             "2021": "2021"
+//         }
+//     }
+// };
 
 const titleize = (str) => {
   return str
@@ -71,9 +80,11 @@ const ViewCharts = () => {
               });
             console.log('Response', response);
             console.log('Response data', response.data);
-            setSummaryData(response.data);
+            console.log('Response data keys', Object.keys(response.data));
+            // console.log('harcodedResponseData keys', Object.keys(hardcodedResponseData));
             // setSummaryData(hardcodedResponseData);
-            setDataSet(Object.keys(hardcodedResponseData)[0]); // Set default dataset to the first key
+            setSummaryData(response.data);
+            setDataSet(Object.keys(response.data)[0]); // Set default dataset to the first key
             enqueueSnackbar('Summary retrieved successfully', { variant: 'success' });
         } catch (error) {
             enqueueSnackbar('Error retrieving summary', { variant: 'error' });

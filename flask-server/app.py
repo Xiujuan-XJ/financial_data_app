@@ -3,7 +3,6 @@ from werkzeug.utils import secure_filename
 from datetime import datetime
 import pandas as pd
 import os
-import process 
 import matplotlib.pyplot as plt
 from flask_cors import CORS, cross_origin
 import json
@@ -39,23 +38,18 @@ def upload():
         file_path=os.path.join(UPLOAD_FOLDER,filename)
         file.save(file_path) #save raw data
         data = pd.read_csv(file_path,parse_dates = ['Date'],dayfirst=True)
-
-        summary = summarize_data(data)
-        # save summary
-        summary_path = os.path.join(UPLOAD_FOLDER, 'summary.csv')
-        #charts = generate_charts(data)
-        
-        # preprocess the data & save data
+        #preprocess the data & save data
         yearly_expenses=process_data(data)
-        
+        #generate_charts(data)  
+        #generate_charts(data)
         return jsonify({"message": "File uploaded successfully","yearly_expenses":yearly_expenses}),200
   
     return render_template('upload.html')
 
-def summarize_data(data):
-    # Example: Summarize data by category
-    summary = data.groupby('Category').sum().reset_index()
-    return summary
+# def summarize_data(data):
+#     # Example: Summarize data by category
+#     summary = data.groupby('Category').sum().reset_index()
+#     return summary
 
 
 def process_data(data):
@@ -79,7 +73,7 @@ def process_data(data):
     data['category_yearly'] = data['Category']+' '+data['Year'].astype(str)
     yearly_expenses_per_category=data.groupby(['category_yearly'],as_index=False).agg({'Amount':'sum'}).rename(columns={"category_yearly": "category", "Amount": "amount"}).to_dict(orient='dict')
 
-    
+
     res={'yearly_expenses':yearly_expenses,
     'monthly_expenses': monthly_expenses,
     'category_totals': category_totals,
@@ -87,16 +81,9 @@ def process_data(data):
     }
 
     with open(os.path.join(CHART_FOLDER,'yearly_expenses.json'), 'w',encoding='utf-8') as outfile:
-        #json.dumps(yearly_expenses, default=pd.DataFrame.to_dict)#outfile.write(yearly_expenses)
         json.dump(res, outfile, ensure_ascii=True, indent=4)
+        
     return res
-
-
-def calculate_yearly_expenses(data):
-    yearly_expenses = data.groupby(['Year'],as_index=False).agg({'Amount':'sum'}).to_dict('records')
-    with open(os.path.join(CHART_FOLDER,'yearly_expenses.json'), 'w',encoding='utf-8') as outfile:
-        json.dump(yearly_expenses, outfile, ensure_ascii=True, indent=4)
-    return yearly_expenses
 
 
 
@@ -114,7 +101,6 @@ def extract_data(file_path):
     df = pd.read_csv(file_path, parse_dates = ['Date'],dayfirst=True)
     df['Year'] = df['Date'].dt.year
     df['Month'] = df['Date'].dt.month
-    
     
     
     # Calculate yearly expenses
@@ -145,46 +131,32 @@ def extract_data(file_path):
     'yearly_expenses_per_category_json': yearly_expenses_per_category_json,
     'total_expenses': total_expenses
 }
+    
     return jsonify(res)
     
     
 
-def generate_charts(data):
-    charts = {}
-    # Example pie chart
-    plt.figure()
-    data.groupby('Category')['Amount'].sum().plot.pie()
-    pie_chart_path = os.path.join(CHART_FOLDER, 'pie_chart.png')
-    plt.savefig(pie_chart_path)
-    charts['pie_chart'] = pie_chart_path
+def generate_charts(df):
+    df['Year'] = df['Date'].dt.year
+    df['Month'] = df['Date'].dt.month
     
+    #barchart
+    category_totals=df.groupby('Category',as_index=False).agg({'Amount':'sum'}).plot(kind='bar',x='Category',y='Amount',title='Total Amount Spent on Each Category',xlabel='Category',ylabel='Amount')
+    bar_chart_path = os.path.join(CHART_FOLDER, 'category_totals.png')
+    category_totals.figure.savefig(bar_chart_path)
     
-    # Example bar chart
-    plt.figure()
-    data.groupby('Category')['Amount'].sum().plot.bar()
-    bar_chart_path = os.path.join(CHART_FOLDER, 'bar_chart.png')
-    plt.savefig(bar_chart_path)
-    charts['bar_chart'] = bar_chart_path
-    return charts
+    #line chart
+    yearly_expenses_per_category=df.groupby(['Category','Year']).agg({'Amount':'sum'})
+    for date, new_df in yearly_expenses_per_category.groupby(level = 0):
+        plt.plot(new_df.index.get_level_values('Year').values,new_df['Amount'],label=new_df.index.get_level_values('Category')[0])
+    plt.xlabel('Year')
+    plt.ylabel('Amount')
+    plt.title('Yearly Expenses per Category')
+    plt.legend()
+    line_chart_path = os.path.join(CHART_FOLDER, 'yearly_expenses_per_category.png')
+    plt.savefig(line_chart_path)
 
 
-@app.route('/chart/<chart_name>', methods=['GET'])
-def get_chart(chart_name):
-    chart_path = os.path.join(CHART_FOLDER, chart_name)
-    if os.path.exists(chart_path):
-        return send_file(chart_path, mimetype='image/png')
-    else:
-        return jsonify({'error': 'Chart not found'}), 404
-    
-    
-@app.route('/download')
-def download():
-    return render_template('download.html',files=os.listdir(UPLOAD_FOLDER))
-
-
-@app.route('/download/<filename>')
-def download_file(filename):
-    return send_from_directory(UPLOAD_FOLDER, filename)
 
 
 if __name__ == '__main__':

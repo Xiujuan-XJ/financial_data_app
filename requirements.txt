@@ -1,6 +1,7 @@
 Flask
 pandas
 matplotlib
+seaborn
 python-dotenv
 werkzeug
 datetime

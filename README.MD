@@ -96,5 +96,5 @@ This web application allows users to upload CSV files containing financial data 
 
 Xiujuan Guo - guoxiujuan1129@gmail.com
 
-Project Link: https://github.com/your-username/financial-data-viz
+Project Link: https://github.com/Xiujuan-XJ/financial_data_app.git
 
